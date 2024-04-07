@@ -1,0 +1,10 @@
+.img{
+    margin-top: .5%;
+    float: left;
+    margin-right:15px;
+}
+.text{
+    color: aliceblue;
+    margin-left: .5%;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
